@@ -4,7 +4,7 @@
 
 This API is deployed on AWS EC2 and can be accessed at:
 
-http://3.87.116.58:5000/
+http://3.87.116.58:5000/ (Currently not running)
 
 
 A backend-focused Python project that started as a command-line user database and evolved into a modular Flask REST API.
