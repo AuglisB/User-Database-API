@@ -1,5 +1,12 @@
 # User Database API
 
+## Live Deployment
+
+This API is deployed on AWS EC2 and can be accessed at:
+
+http://3.87.116.58:5000/
+
+
 A backend-focused Python project that started as a command-line user database and evolved into a modular Flask REST API.
 
 This application stores user records, supports admin authentication with JWT, performs CRUD operations against a SQLite database, and includes export, logging, backup, and JSON-to-SQLite migration utilities.
@@ -165,7 +172,7 @@ Example:
 [
   {
     "username": "admin",
-    "password": "240be518fabd2724ddb6f04eeb0c06041c8b1f82b1df6c6f3d0b4f1f2f7a1d87",
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
     "role": "admin"
   }
 ]
