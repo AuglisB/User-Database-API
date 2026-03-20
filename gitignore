@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Local data and secrets
+data/admins.json
+data/users.db
+
+# Generated folders
+logs/
+backups/
+exports/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
